@@ -1,3 +1,6 @@
+git config --global user.email "<MailAdresse>"
+git config --global user.name "<Username> "
+
 git add .
 git commit -m "new files"
 git push
